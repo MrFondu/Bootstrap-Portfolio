@@ -1,0 +1,40 @@
+.whole {
+    width: 100%;
+    max-width: 960px;
+    padding: 30px;
+    margin: 40px 40px 40px;
+    background-color: white;
+}
+
+body {
+
+background: grey;
+}
+
+
+.sidebar {
+    margin-top: 10px;
+}
+
+h1 {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.img {
+    padding: 2px;
+    border: 1px solid black;
+}   
+
+.about {
+    margin-left: 5%;
+}
+
+.more {
+    margin-left: 2.5%;
+    margin-right: 2.5%
+}
+
+.second {
+    margin-left: 15px;
+}
